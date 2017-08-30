@@ -1,5 +1,5 @@
 {
-  "name": "first",
+  "name": "book-store",
   "version": "1.0.0",
   "description": "Node first Learn/Practice project",
   "main": "index.js",
@@ -8,5 +8,12 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "webpack": "^3.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
