@@ -5,10 +5,7 @@ const Book = (props) => {
 	return(
 
 	<div>
-		<Book one/>
-		<Book two/>
-		<Book three/>
-		<Book four/>
+		...one book ...
 	</div>
 		);
 };

@@ -8,7 +8,11 @@ import Book from './Book';
 const BookList = (props) => {
 	return(
 
-		<Book />
+		<div>
+			<Book />
+			<Book />
+			<Book />
+		</div>
 	);
 };
 
